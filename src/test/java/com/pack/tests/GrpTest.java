@@ -8,6 +8,7 @@ public class GrpTest {
 	public void test()
 	{
 		System.out.println("hi");
-		System.out.println("ECLIPSE");
+		System.out.println("ECLIPSE2");
+
 	}
 }
