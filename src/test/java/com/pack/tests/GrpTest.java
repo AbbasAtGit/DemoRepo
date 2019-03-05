@@ -12,5 +12,6 @@ public class GrpTest {
 
 		System.out.println("NEW LINE");
 		System.out.println("GIT UPDATE");
+		System.out.println("GIT new UPDATE");
 	}
 }
