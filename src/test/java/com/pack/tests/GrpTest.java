@@ -8,5 +8,6 @@ public class GrpTest {
 	public void test()
 	{
 		System.out.println("hi");
+		System.out.println("NEW LINE");
 	}
 }
