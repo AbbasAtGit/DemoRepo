@@ -10,5 +10,7 @@ public class GrpTest {
 		System.out.println("hi");
 		System.out.println("ECLIPSE2");
 
+		System.out.println("NEW LINE");
+		System.out.println("GIT UPDATE");
 	}
 }
